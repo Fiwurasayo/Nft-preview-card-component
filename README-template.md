@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Fiwurasayo/Nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://fiwurasayo-nftpreview.netlify.app/)
+- Solution URL: [https://github.com/Fiwurasayo/Nft-preview-card-component]
+- Live Site URL: [https://fiwurasayo-nftpreview.netlify.app/]
 
 
 ### Built with
@@ -66,7 +66,7 @@ in this section and replace with your own plans for continued development.**
 ## Author
 
 - Website -![Frontend Mentor _ NFT preview card component - Google Chrome 12_02_2022 21_37_23](https://user-images.githubusercontent.com/93770110/153710269-465adec5-57c5-4e2f-a2da-c24e2885224a.png)
-(https://https://fiwurasayo-nftpreview.netlify.app/)
-- Frontend Mentor (https://www.frontendmentor.io/profile/fiwurasayo)
-- Twitter -(https://www.twitter.com/fiwurasayo)
+[https://https://fiwurasayo-nftpreview.netlify.app/]
+- Frontend Mentor [https://www.frontendmentor.io/profile/fiwurasayo]
+- Twitter -[https://www.twitter.com/fiwurasayo]
 
