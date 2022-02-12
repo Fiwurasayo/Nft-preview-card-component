@@ -27,15 +27,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![Frontend Mentor _ NFT preview card component - Google Chrome 12_02_2022 21_37_23](https://user-images.githubusercontent.com/93770110/153710312-5e43e6fb-ed9e-4a07-a247-2f29312288b4.png)
 
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -72,7 +65,8 @@ in this section and replace with your own plans for continued development.**
 
 ## Author
 
-- Website - [Add your name here](https://https://fiwurasayo-nftpreview.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/fiwurasayo)
-- Twitter - [@yourusername](https://www.twitter.com/fiwurasayo)
+- Website -![Frontend Mentor _ NFT preview card component - Google Chrome 12_02_2022 21_37_23](https://user-images.githubusercontent.com/93770110/153710269-465adec5-57c5-4e2f-a2da-c24e2885224a.png)
+(https://https://fiwurasayo-nftpreview.netlify.app/)
+- Frontend Mentor (https://www.frontendmentor.io/profile/fiwurasayo)
+- Twitter -(https://www.twitter.com/fiwurasayo)
 
